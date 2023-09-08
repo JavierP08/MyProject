@@ -13,8 +13,6 @@ Original file is located at
 *   pip install matplotlib
 """
 
-!pip install --upgrade mesa
-
 import mesa
 from mesa.time import RandomActivation
 import json
